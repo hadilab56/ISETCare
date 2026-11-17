@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ISETCare</string>
+    <string name="nav_home">Accueil</string>
+    <string name="nav_scan">Scanner</string>
+    <string name="nav_suivi">Suivi</string>
+    <string name="nav_agenda">Agenda</string>
+    <string name="notifications">Notifications</string>
+    <string name="logout">Se déconnecter</string>
+</resources>

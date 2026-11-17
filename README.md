@@ -1,4 +1,4 @@
-# ISETCare - application Android (Kotlin + Java)
+# ISETCare — application Android (Kotlin + Java)
 
 Gestion intelligente du matériel et des réclamations techniques de l'ISET Radès.
 Projet d'intégration L3 DSI — DidouSoft.
